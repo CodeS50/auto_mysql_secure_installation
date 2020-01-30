@@ -1,0 +1,1 @@
+auto_mysql_secure_installation
